@@ -1,3 +1,4 @@
-public class IArbeit {
-    
-}
+public interface IArbeit {
+
+    void arbeitsAusfuehrung();
+} 

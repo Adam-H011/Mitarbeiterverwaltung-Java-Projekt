@@ -16,7 +16,7 @@ public abstract class Mitarbeiter {
         this(name, personalnummer, 3000.0);
     }
 
-    // getter und setter. MERK DIR getter gibt wert zurück und setter setzt den wert neu
+    // getter und setter.
     public String getName() { return name; }
     public int getPersonalnummer() { return personalnummer; }
     public double getGrundgehalt() { return grundgehalt; }
